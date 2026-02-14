@@ -12,6 +12,6 @@ const { title, image, pdf } = Astro.props;
   <img src={`/media/${image}`} alt={title} loading="lazy" width="813" height="1052" />
   <div class="coloring-card-body">
     <span class="coloring-card-title">{title}</span>
-    <a href={`/downloads/${pdf}`} class="btn-print" target="_blank" rel="nofollow noopener" download>Print</a>
+    <a href={`/downloads/${pdf}`} class="btn-print" target="_blank" rel="nofollow noopener">Print</a>
   </div>
 </div>
