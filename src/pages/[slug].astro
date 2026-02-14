@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ColoringCard from '../components/ColoringCard.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map(page => ({
+    params: { slug: page.data.slug },
+    props: { page: page.data },
+  }));
+}
+
+const { page } = Astro.props;
+
+// Resolve related collection titles for linking
+const allPages = await getCollection('pages');
+const relatedPages = (page.related || [])
+  .map(slug => allPages.find(p => p.data.slug === slug))
+  .filter(Boolean)
+  .map(p => ({
+    title: p!.data.title.replace(' Coloring Pages', '').replace(' Coloring Page Collection', ''),
+    slug: p!.data.slug,
+  }));
+
+const pageCount = page.coloringPages?.length || 0;
+---
+
+<BaseLayout title={page.title} description={page.description}>
+  <div class="container">
+    <div class="page-header">
+      <nav class="breadcrumb">
+        <a href="/">Home</a>
+        <span>/</span>
+        <span>{page.title}</span>
+      </nav>
+      <h1>{page.title}</h1>
+    </div>
+
+    {page.coloringPages && pageCount > 0 && (
+      <div class="coloring-grid">
+        {page.coloringPages.map(cp => (
+          <ColoringCard title={cp.title} image={cp.image} pdf={cp.pdf} />
+        ))}
+      </div>
+    )}
+
+    {relatedPages.length > 0 && (
+      <section class="related-section">
+        <h2>You might also like</h2>
+        <div class="related-grid">
+          {relatedPages.map(r => (
+            <a href={`/${r.slug}/`} class="related-link">{r.title}</a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>

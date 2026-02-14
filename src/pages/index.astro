@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allPages = await getCollection('pages');
+// Sort by number of coloring pages (largest first)
+const collections = allPages
+  .filter(p => p.data.coloringPages && p.data.coloringPages.length > 0)
+  .sort((a, b) => (b.data.coloringPages?.length || 0) - (a.data.coloringPages?.length || 0));
+
+// Pick one preview image from each collection for the homepage
+const previews = collections.map(p => ({
+  title: p.data.title,
+  slug: p.data.slug,
+  count: p.data.coloringPages?.length || 0,
+  // First image as preview
+  preview: p.data.coloringPages?.[0]?.image || '',
+}));
+---
+
+<BaseLayout title="Home">
+  <section class="hero">
+    <div class="container">
+      <h1>Free Coloring Pages</h1>
+      <p>Print-ready coloring pages for kids and adults. Always free.</p>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="category-grid" style="grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));">
+      {previews.map(col => (
+        <a href={`/${col.slug}/`} class="category-card" style="flex-direction: column; padding: 0; overflow: hidden; border-radius: var(--radius);">
+          <img
+            src={`/media/${col.preview}`}
+            alt={col.title}
+            loading="lazy"
+            style="width: 100%; aspect-ratio: 813/1052; object-fit: cover; background: var(--color-surface);"
+          />
+          <div style="padding: 0.625rem 0.75rem; width: 100%; text-align: left;">
+            <span style="font-size: 0.875rem;">{col.title.replace(' Coloring Pages', '').replace(' Coloring Page Collection', '')}</span>
+            <span class="count">{col.count}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

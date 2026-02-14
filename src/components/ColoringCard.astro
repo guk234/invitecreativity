@@ -1,0 +1,17 @@
+---
+interface Props {
+  title: string;
+  image: string;
+  pdf: string;
+}
+
+const { title, image, pdf } = Astro.props;
+---
+
+<div class="coloring-card">
+  <img src={`/media/${image}`} alt={title} loading="lazy" width="813" height="1052" />
+  <div class="coloring-card-body">
+    <span class="coloring-card-title">{title}</span>
+    <a href={`/downloads/${pdf}`} class="btn-print" target="_blank" rel="nofollow noopener" download>Print</a>
+  </div>
+</div>

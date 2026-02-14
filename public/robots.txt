@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /downloads/
+
+Sitemap: https://invitecreativity.com/sitemap-index.xml

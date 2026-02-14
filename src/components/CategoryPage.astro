@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  category: string;
+  title: string;
+}
+
+const { category, title } = Astro.props;
+
+const allPages = await getCollection('pages');
+const collections = allPages
+  .filter(p => p.data.category === category && p.data.coloringPages?.length)
+  .sort((a, b) => (b.data.coloringPages?.length || 0) - (a.data.coloringPages?.length || 0));
+---
+
+<div class="container">
+  <div class="page-header">
+    <nav class="breadcrumb"><a href="/">Home</a><span>/</span><span>{title}</span></nav>
+    <h1>{title} Coloring Pages</h1>
+  </div>
+  {collections.length > 0 ? (
+    <div class="category-grid" style="grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));">
+      {collections.map(col => (
+        <a href={`/${col.data.slug}/`} class="category-card" style="flex-direction: column; padding: 0; overflow: hidden;">
+          <img
+            src={`/media/${col.data.coloringPages?.[0]?.image}`}
+            alt={col.data.title}
+            loading="lazy"
+            style="width: 100%; aspect-ratio: 813/1052; object-fit: cover; background: var(--color-surface);"
+          />
+          <div style="padding: 0.625rem 0.75rem; width: 100%; text-align: left;">
+            <span style="font-size: 0.875rem;">{col.data.title.replace(' Coloring Pages', '').replace(' Coloring Page Collection', '')}</span>
+            <span class="count">{col.data.coloringPages?.length}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  ) : (
+    <p style="color: var(--color-text-muted); margin-top: 1rem;">More collections coming soon.</p>
+  )}
+</div>
