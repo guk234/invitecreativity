@@ -1,10 +1,19 @@
 {
-  "title": "Monster Coloring Pages",
+  "title": "Monster Coloring Pages (Free Printable PDFs)",
   "slug": "monster-coloring-pages",
   "description": "",
   "category": "Fantasy",
   "date": "2024-04-14",
-  "sections": null,
+  "sections": [
+    {
+      "heading": "Cute Monster Coloring Pages",
+      "text": "We created a bunch of cute, cartoon-style monster buddies in our simple section that are perfect for little kids and preschoolers! These fun pages have thick lines and basic shapes that make coloring easy. Adorable Kawaii Monster Drawing To Color Baby Fluffy Monster For Preschool Coloring Page Of Fluffy Gremlin Monster Coloring Page Of Kawaii Girl Monster Cool And Scary Monster Coloring Book Page Cute Monster Easy To Color Cute Monster Face Page To Color Cute Monster For Preschool Fluffy Monster Coloring Sheet Friendly Monster Coloring Sheet Gremlin Monster Coloring Sheet Monster Coloring Page Monster Coloring Sheet Monster Face Coloring Page Scary Monster Cartoon To Color Scary Monster Coloring Page Adorable Mummy Outline Baby Mummy Coloring Sheet Cute Mummy Girl Illustration"
+    },
+    {
+      "heading": "Scary Monster Coloring Pages",
+      "text": "These difficult monster pages feature tons of shading and details that will challenge your coloring abilities. The following sheets offer an enjoyable yet demanding monster coloring adventure. Coloring Sheet Of Sea Serpent Monster Alien Monster Coloring Page Coloring Sheet Of Kraken Legendary Sea Monster Detailed Monster Face To Color Detailed Snake Monster Page To Color Monster Hunter Coloring Page Kraken Monster Coloring Page Realistic Monster For Adults To Color Scary Swamp Monster Coloring Sheet Snake Monster Coloring Page Snake Monster Realistic Coloring Book Page Swamp Monster Coloring Page"
+    }
+  ],
   "coloringPages": [
     {
       "title": "Adorable Kawaii Monster",
@@ -48,13 +57,13 @@
     },
     {
       "title": "Monster",
-      "image": "monster.jpg",
-      "pdf": "monster.pdf"
+      "image": "monster-3.jpg",
+      "pdf": "monster-3.pdf"
     },
     {
       "title": "Monster",
-      "image": "monster-2.jpg",
-      "pdf": "monster-2.pdf"
+      "image": "monster-4.jpg",
+      "pdf": "monster-4.pdf"
     },
     {
       "title": "Scary Monster Cartoon",
@@ -117,11 +126,20 @@
       "pdf": "swamp-monster.pdf"
     }
   ],
-  "tips": null,
-  "crafts": null,
+  "tips": {
+    "colors": "Use vibrant greens, purples, and blues for monster skin tones. Bright reds, yellows, and oranges add striking highlights and details. Monsters can be any crazy color!",
+    "techniques": "A. Layering Colors: Start with a green base coat. Layer different shades of blue and purple on top for a textured, scaly monster look. Add yellow highlights. B. Illustrating Specific Elements: Color monster claws, teeth, or horns bright white. Use black outlines around them to make the features really pop.",
+    "challenge": "Pick one color and use different shades/tints of that color to create a symmetrical monster portrait on each half. This bilateral challenge helps develop an eye for symmetry and shading consistency. These colorful monsters are having a blast, but they’re curious about their mysterious cousin who lives in the snowy mountains. Let’s grab our warmest crayons and visit the friendly yeti to see if they’re ready for a chilly playdate!"
+  },
+  "crafts": [
+    {
+      "title": "3 DIY Monster Crafts",
+      "text": "Get ready to have a monster-ific time with these wildly fun monster crafts! Supplies Needed: Instructions: What You’ll Need: Here’s How: Gather These: Steps:"
+    }
+  ],
   "related": [
-    "ghost-coloring-pages",
-    "dinosaurs-coloring-pages",
+    "unicorn-coloring-pages",
+    "zombie-coloring-pages",
     "dragon-coloring-pages"
   ]
 }

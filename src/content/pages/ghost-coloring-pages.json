@@ -1,10 +1,23 @@
 {
-  "title": "Ghost Coloring Pages",
+  "title": "Ghost Coloring Pages (Free Printable PDFs)",
   "slug": "ghost-coloring-pages",
   "description": "",
   "category": "Fantasy",
   "date": "2024-04-14",
-  "sections": null,
+  "sections": [
+    {
+      "heading": "Cute Ghost Coloring Pages",
+      "text": "These fun, easy-to-color designs feature cute cartoon ghosts with accessible shapes. Cute Ghost For Toddlers Coloring Book Page Family Of Ghosts Coloring Sheet Friendly Ghost Coloring Page Ghost Family Coloring Page Cute Ghost Coloring Page Ghost Skull Coloring Page Happy Ghost Coloring Sheet Kawaii Ghost Drawing To Color Kawaii Ghost Easy To Color Kawaii Ghost For Kids Coloring Book Page Coloring Page Of Girl And Ghost Girl Ghost Coloring Sheet Sad Ghost Easy To Color Coloring Sheet Sad Ghost For Prek Outline Sad Ghost For Preschool Sad Ghost Illustration Scary Ghost Easy To Color Coloring Sheet Scary Ghost For Kids Coloring Page Spooky Ghost Blank Coloring Book Page Spooky Ghost Coloring Page Scary Ghost Skull Coloring Sheet"
+    },
+    {
+      "heading": "Scary Ghost Coloring Pages",
+      "text": "For those seeking an advanced artistic challenge, we’ve illustrated a collection of detailed ghost coloring pages perfect for older kids and adults. These designs beautifully capture the haunting spirits. Ghost Scaring People Coloring Book Page Realistic Ghost Coloring Sheet Coloring Sheet Of Ghost In The Haunted Forest Coloring Sheet Of Ghost Tea Party Aesthetic Creepy Ghost In The Haunted Forest Coloring Sheet Detailed Ghost In The Haunted Forest Coloring Page"
+    },
+    {
+      "heading": "Detailed Ghost Coloring Tips",
+      "text": "A. Blending: Use a white pencil or crayon. Gently blend to create a soft, misty look. Layer darker grays on top for a smoky effect. B. Textured Effects: Use the side of a pencil or crayon. Create a grainy, static-like texture over the ghost. This looks like the ghost is transparent and flickering."
+    }
+  ],
   "coloringPages": [
     {
       "title": "Family of Ghosts",
@@ -17,6 +30,11 @@
       "pdf": "kawaii-ghost.pdf"
     },
     {
+      "title": "Kawaii Ghost",
+      "image": "kawaii-ghost-2.jpg",
+      "pdf": "kawaii-ghost-2.pdf"
+    },
+    {
       "title": "Scary Ghost",
       "image": "scary-ghost.jpg",
       "pdf": "scary-ghost.pdf"
@@ -27,11 +45,19 @@
       "pdf": "ghost-scaring-people.pdf"
     }
   ],
-  "tips": null,
-  "crafts": null,
+  "tips": {
+    "colors": "Use white, gray, and black for ghosts. Start with light gray as the base color. Use darker grays and blacks for shading and details. Add bright colors too! Make ghosts purple, blue, or any color you like.",
+    "challenge": "Color a haunted house scene with ghosts! Use complementary colors that sit opposite on the color wheel, like purple and yellow. This contrasting color scheme makes the ghosts eye-catching against backgrounds. It boosts creativity by coordinating vivid color combinations."
+  },
+  "crafts": [
+    {
+      "title": "4 DIY Ghost Crafts",
+      "text": "Get ready for some haunting fun with these ghoulishly good ghost crafts! What You’ll Need: Here’s How: Gather These: Steps: You’ll Need: Instructions: Supplies: Let’s Make It: Boo! Hopefully these friendly ghosts provided you with giggles and fun. But wait, do you hear that growl? It must be their silly monster friends coming to join the party!"
+    }
+  ],
   "related": [
-    "monster-coloring-pages",
-    "snowman-coloring-pages",
-    "dragon-coloring-pages"
+    "phoenix-coloring-pages",
+    "unicorn-coloring-pages",
+    "zombie-coloring-pages"
   ]
 }

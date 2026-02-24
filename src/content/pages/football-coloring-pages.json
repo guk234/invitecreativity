@@ -1,10 +1,27 @@
 {
-  "title": "Football Coloring Pages",
+  "title": "Football Coloring Pages (Free Printable PDFs)",
   "slug": "football-coloring-pages",
   "description": "",
   "category": "Sport",
   "date": "2024-04-14",
-  "sections": null,
+  "sections": [
+    {
+      "heading": "Football Player Coloring Pages",
+      "text": "Whether it’s a running back powering downfield or a quarterback dropping back to pass, these dynamic designs will let you color your favorite athletes in action. Nfl Football Player Catching A Ball Outline Nfl Football Player Coloring Page Quarterback Coloring Page Quick Receiver Page To Color Realistic Football Player Coloring Page Wide Receiver Football Player Coloring Page"
+    },
+    {
+      "heading": "Football Helmets Coloring Pages",
+      "text": "We designed these stylized headgear illustrations to let you creatively customize your favorite team’s iconic look. American Football Blank Helmet Coloring Sheet American Football Helmet To Color Cartoon Football Helmet Page To Color Football Helmet Easy To Color Nfl Football Cute Simple To Color Nfl Football Player Offensive Guard Illustration Nfl Football Team Coloring Sheet Simple To Color Football"
+    },
+    {
+      "heading": "Football Accessories Coloring Pages",
+      "text": "From footballs and jerseys to detailed field illustrations and celebratory trophies, these pages offer a unique artistic experience for football fans of all ages to bring the sport’s iconic elements to life. Nfl Football Ball To Color Nfl Football Coloring Sheet Nfl Football Detailed Coloring Book Page Nfl Football Easy To Color For Kids Football Field Coloring Page Super Bowl Trophy Page To Color Blank Football Jersey Coloring Page Football Team Jersey Coloring Book Page Football Uniform Coloring Sheet Football Goal Post Coloring Sheet"
+    },
+    {
+      "heading": "Color Football like a Pro",
+      "text": "A. Highlighting and Shadows: Use lighter greens on the tops of players’ helmets for highlights. Apply darker greens underneath for shading. B. Color Combinations: For team uniforms, combine the main color like blue with white accents for numbers and stripes."
+    }
+  ],
   "coloringPages": [
     {
       "title": "Nfl Football Player",
@@ -102,11 +119,19 @@
       "pdf": "football-goal-post.pdf"
     }
   ],
-  "tips": null,
-  "crafts": null,
+  "tips": {
+    "colors": "Greens for the field, whites for lines, browns for the football. Team colors like blue, red, silver provide uniform accents.",
+    "challenge": "Color your football scene using your favorite team’s colors across all elements – players’ uniforms, field decorations, accessories. This unified palette fosters team spirit and pride. It encourages thoughtful use of color combinations and coordination for a cohesive scene."
+  },
+  "crafts": [
+    {
+      "title": "3 DIY Football Crafts",
+      "text": "Get ready to score some serious fun with these 5 creative DIY craft ideas using football coloring pages! Supplies: Instructions: You’ll Need: Directions: Gather: Let’s Make It!"
+    }
+  ],
   "related": [
-    "construction-coloring-pages",
-    "monster-coloring-pages",
-    "snowman-coloring-pages"
+    "volleyball-coloring-pages",
+    "golf-coloring-pages",
+    "ice-skating-coloring-pages"
   ]
 }

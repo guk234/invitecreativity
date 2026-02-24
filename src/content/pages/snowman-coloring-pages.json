@@ -1,10 +1,23 @@
 {
-  "title": "Snowman Coloring Pages",
+  "title": "Snowman Coloring Pages (Free Printable PDFs)",
   "slug": "snowman-coloring-pages",
   "description": "",
   "category": "Christmas",
   "date": "2024-06-18",
-  "sections": null,
+  "sections": [
+    {
+      "heading": "Simple Snowman Coloring Pages",
+      "text": "Discover our adorable snowman coloring pages, designed with simple shapes and cartoon-style outlines. These fun and easy-to-color pages are perfect for preschoolers and young kids, encouraging creativity and festive cheer. Snowman Holding A Gift To Color Snowman With A Scarft And Hat And Carrot As A Nose Coloring Sheet Snowman With Branches As Arms To Color Snowman With Cute Animals Coloring Page Snowman With Gloves Coloring Sheet Of Waving Snowman Page To Color Whimsical Snowman To Color Christmas Snowman Coloring Page Of Christmas Snowman Holding A Gift Coloring Page Of Easy To Color Snowman Drawing To Color Group Of Snowmans Coloring Sheet Happy Snowman With Snow Flakes Coloring Page Intricate Snowman To Color Snowman Cartoon Character Style Coloring Page Snowman Family Coloring Page Of Snowman Frozen Coloring Page Snowman Happy Holidays Coloring Page Snowman Holding A Broom Coloring Page Of"
+    },
+    {
+      "heading": "Cute Snowman Coloring Pages",
+      "text": "Our cute snowman coloring pages feature fun, cartoon-style designs with simple shapes and outlines. Color a happy snowman! Cute Snowman Coloring Page Kid Snowman Page To Color Shy Snowman Coloring Book Page Smiling Snowman To Color Snowman Cartoon Coloring Book Page Snowman Kawaii Coloring Sheet Snowman Merry Christmas Coloring Page Snowman With A Hat Coloring Page Snowman With Penguin And Bear Page To Color Adorable Snowman Coloring Page Baby Snowman Coloring Sheet Of Blank Snowman Coloring Page"
+    },
+    {
+      "heading": "Realistic Snowman Coloring Pages",
+      "text": "For older kids and adults, we illustrated advanced, detailed snowman coloring pages. These challenging designs are perfect for relaxing, improving coloring skills, and enjoying a creative winter-themed activity. Snowman In A Snowy Forest Full Page Coloring Sheet Snowman Inside A Snowglobe To Color Girl And Tiny Snowman Coloring Sheet Of Snowman And Igloo To Color Snowman Coloring Book Page Snowman Disney Style Outline Snowman Holding A Candy Cane Coloring Sheet Of"
+    }
+  ],
   "coloringPages": [
     {
       "title": "Snowman with a Scarft and Hat and Carrot As a Nose",
@@ -108,8 +121,8 @@
     },
     {
       "title": "Snowman Inside a Snowglobe",
-      "image": "snowman-inside-a-snowglobe.jpg",
-      "pdf": "snowman-inside-a-snowglobe.pdf"
+      "image": "snowman-inside-a-snowglobe-2.jpg",
+      "pdf": "snowman-inside-a-snowglobe-2.pdf"
     },
     {
       "title": "Girl and Tiny Snowman Coloring Sheet of",
@@ -128,15 +141,24 @@
     },
     {
       "title": "Snowman Holding a Candy Cane Coloring Sheet of",
-      "image": "snowman-holding-a-candy-cane.jpg",
-      "pdf": "snowman-holding-a-candy-cane.pdf"
+      "image": "snowman-holding-a-candy-cane-2.jpg",
+      "pdf": "snowman-holding-a-candy-cane-2.pdf"
     }
   ],
-  "tips": null,
-  "crafts": null,
+  "tips": {
+    "colors": "Whites for the main snowman body. Blacks for the coal mouth and buttons. Oranges and reds for the carrot nose and accents. Greens, blues and purples for festive scarves and hats. But why limit yourself to just cold snowman shades? Get bold and bright by adding patterns, swirls or even glow effects for extra pizazz!",
+    "techniques": "A. Illustrating Specific Elements: Use orange for the carrot nose. Add short curved strokes in varied shades to depict the textured grooved surface. B. Color Combinations: For a traditional look, use black for the coal buttons and mouth. Complement with a bright holiday green scarf and purple hat.",
+    "challenge": "Instead of a plain old snowman, fuse some extra fun by blending Frosty with your other favorite characters or themes! You could add robotic cybernetic enhancements with blinky lights and mechanical arms. Or depict him as a beach sandman decorated with shells and sunglasses. It’s a great way to make your coloring page unique and cheerful."
+  },
+  "crafts": [
+    {
+      "title": "3 DIY Snowman Crafts",
+      "text": "Get ready to craft up some frosty winter fun! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
+    }
+  ],
   "related": [
-    "ghost-coloring-pages",
-    "unicorn-coloring-pages",
-    "football-coloring-pages"
+    "christmas-coloring-pages",
+    "christmas-elf-coloring-pages",
+    "santa-claus-coloring-pages"
   ]
 }

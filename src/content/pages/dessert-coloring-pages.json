@@ -1,10 +1,15 @@
 {
-  "title": "Dessert Coloring Pages",
+  "title": "Dessert Coloring Pages (Free Printable PDFs)",
   "slug": "dessert-coloring-pages",
   "description": "",
   "category": "Food",
   "date": "2024-04-14",
-  "sections": null,
+  "sections": [
+    {
+      "heading": "All Desserts Coloring Pages",
+      "text": "Dessert Coloring Page Dessert Food Coloring Page Desserts Coloring Page Desserts Coloring Sheet Desserts To Color Cake Slice Dessert Easy To Color Cake Slice Dessert Simple To Color Coloring Page Of Big Cake Slice Coloring Page Of Cookies Coloring Page Of Cupcake Dessert Coloring Sheet Of Dessert Buffet Coloring Sheet Of Dessert With Ice Cream Coloring Sheet Of Desserts Cartoon Style Cookies Coloring Sheet Cupcake Coloring Sheet Cute Cake Slice Coloring Sheet Cute Cupcake For Preschool To Color Cute Dessert Kawaii Cartoon Outline Dessert Buffet Coloring Page Dessert Kawaii Coloring Page Dessert Pie Coloring Page Detailed Dessert Cartoon Style To Color Detailed Dessert For Adults To Color Donut Easy For Preschool To Color Elegant Dessert Drawing To Color Fruit Cake Dessert Page To Color Fruit Tart Coloring Sheet Girl Making A Dessert Coloring Sheet Pancake Coloring Page Realistic Cookies For Adults To Color Realistic Fruit Cake Page To Color Simple Donut Dessert Page To Color Sweet Treats Coloring Page"
+    }
+  ],
   "coloringPages": [
     {
       "title": "Dessert",
@@ -78,8 +83,8 @@
     },
     {
       "title": "Cupcake",
-      "image": "cupcake.jpg",
-      "pdf": "cupcake.pdf"
+      "image": "cupcake-2.jpg",
+      "pdf": "cupcake-2.pdf"
     },
     {
       "title": "Cute Cake Slice",
@@ -172,11 +177,20 @@
       "pdf": "sweet-treats.pdf"
     }
   ],
-  "tips": null,
-  "crafts": null,
+  "tips": {
+    "colors": "Browns work well for chocolate treats. Pastries can use yellows, whites, and pinks. Fruity desserts call for reds, purples, and oranges.",
+    "techniques": "A. Layering Colors: For a chocolate cupcake, start with a brown base. Layer darker browns in the crease areas. Use pinks and whites for frosting on top. B. Textured Effects: Use a cotton ball to dab on white frosting textures. Or make tiny dots with a pencil tip to create sprinkle patterns.",
+    "challenge": "Color your dessert scene using complementary colors that sit opposite on the color wheel, like purple and yellow. You’ll practice coordinating vivid yet balanced color pairings across the image."
+  },
+  "crafts": [
+    {
+      "title": "5 DIY Dessert Crafts",
+      "text": "Get ready for some deliciously fun activities with these tempting dessert-themed crafts! Supplies Needed: Instructions: What You’ll Need: Here’s How: Gather These: Steps: You’ll Need: Instructions: Supplies: Let’s Make It!"
+    }
+  ],
   "related": [
-    "unicorn-coloring-pages",
-    "snowman-coloring-pages",
-    "ghost-coloring-pages"
+    "candy-coloring-pages",
+    "carrot-coloring-pages",
+    "coffee-coloring-pages"
   ]
 }
