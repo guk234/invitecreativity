@@ -1,19 +1,10 @@
 {
-  "title": "Candy Cane Coloring Pages (Free Printable PDFs)",
+  "title": "Candy Cane Coloring Pages",
   "slug": "candy-cane-coloring-pages",
   "description": "",
   "category": "Food",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Cute Candy Cane Coloring Pages",
-      "text": "Our candy cane coloring pages are cute, fun, and easy to color with simple shapes and cartoon-style outlines. Perfect for preschoolers and young kids, these accessible pages spark creativity and holiday excitement. Candy Cane Simple Coloring Sheet Snowman Holding A Candy Cane To Color Candy Cane Cartoon Eight Shape To Color Candy Cane Cartoon Style Coloring Page Candy Cane Circle Coloring Book Page Candy Cane Coloring Page Candy Cane In Bowknot Pattern Coloring Sheet Candy Cane Kawaii Coloring Page Of Candy Cane Lollipop Shape Page To Color"
-    },
-    {
-      "heading": "Detailed Candy Cane Coloring Pages",
-      "text": "We illustrated advanced, detailed candy cane coloring pages for older kids and adults. These challenging designs provide a relaxing and festive activity, perfect for honing your coloring skills and enjoying creative holiday fun. Candy Canes And Wreath Coloring Sheet Candy Canes And Dog Coloring Page Candy Cane Village Coloring Sheet Of Candy Cane Tree Coloring Page Candy Cane On A Christmas Tree Coloring Book Page Candy Cane And Santa Page To Color Candy Canes As Christmas Ornament Coloring Page"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Snowman Holding a Candy Cane",
@@ -21,17 +12,8 @@
       "pdf": "snowman-holding-a-candy-cane.pdf"
     }
   ],
-  "tips": {
-    "colors": "Reds and whites for classic candy cane stripes. Greens for mint candies. Browns for chocolate varieties. Pinks, purples and blues for fun, vibrant twist flavors. But why nibble on boring hues when you can truly indulge in a sugar-frosted art extravaganza? Make your candy scene drool-worthy by incorporating glistening crystalline textures, blazing neon striped trails, or even tantalizing gingerbread landscape backdrops!",
-    "techniques": "A. Illustrating Specific Elements: For a classic candy cane, use a red base with white stripes. Add short stroke highlights to depict the glossy, hardened sugar texture. B. Layering Colors: On a swirled lollipop, use a pink base. Layer purple tones around the swirl’s outer edges. Add blue in the center to create a vibrant multi-colored spiral effect.",
-    "challenge": "Feast your imagination on a deliciously festive “Gingerbread Candyscape Wonderland” where holiday treats transform into whimsical realms! For instance, illustrate massive gumdrop hills nestled between fudge frosting valleys, rivers of melted chocolate winding around peppermint bark boulders, or even cozy marshmallow cabins surrounded by swirling gummi bear forests. This mouth-watering theme treat sparks limitless mouthwatering inventiveness!"
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Candy Cane Crafts",
-      "text": "Get ready to craft up some deliciously festive fun! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "cupcake-coloring-pages",
     "dessert-coloring-pages",

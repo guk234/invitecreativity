@@ -1,5 +1,5 @@
 {
-  "title": "Cupcake Coloring Pages (Free Printable PDFs)",
+  "title": "Cupcake Coloring Pages",
   "slug": "cupcake-coloring-pages",
   "description": "",
   "category": "Food",
@@ -12,17 +12,8 @@
       "pdf": "cupcake.pdf"
     }
   ],
-  "tips": {
-    "colors": "Pinks, blues, yellows and greens for cupcake bases. White for frostings. Browns for chocolate varieties. Vibrant colors like purples and oranges for decorative sprinkles and accents. Don’t resign your cupcake canvas to a bland, vanilla vision! Make those sweet centerpieces burst with sugary splendor by swirling in kaleidoscopic color blends or adding shimmering pearl dust accents.",
-    "techniques": "A. Illustrating Specific Elements: For sprinkles or candy toppings, use bright primary colors like red, yellow and blue. Add white highlights to depict a sugary shine. B. Highlighting and Shadows: On a frosted cupcake, use an off-white base coat. Add yellow highlights on raised swirl areas and shade underneath with gray undertones.",
-    "challenge": "Bring your cupcake characters to life by giving them adorable animal personas with colorful, creative details like candy eyes, pretzel antennae or strawberry noses! For instance, create a puppy cupcake with a swirl frosting snout, candy confections for paws, and licorice accents for a leash. This whimsical theme encourages imaginary world-building while practicing fine illustrative skills."
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Cupcake Crafts",
-      "text": "Get ready for deliciously sweet cupcake fun with these crafty ideas! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "candy-cane-coloring-pages",
     "candy-coloring-pages",

@@ -1,19 +1,10 @@
 {
-  "title": "Airplane Coloring Pages (Free Printable PDFs)",
+  "title": "Airplane Coloring Pages",
   "slug": "airplane-coloring-pages",
   "description": "",
   "category": "Transport",
   "date": "2024-04-14",
-  "sections": [
-    {
-      "heading": "Simple Airplane Coloring Pages",
-      "text": "This collection of simple airplane coloring pages features designs with less shading and even some cute cartoons. Airplane Coloring Page Airbus Simple To Color For Kids Aircraft Coloring Page Aircraft Coloring Sheet Airplane Windows To Color Airplane Wings Easy To Color For Preschool Cute Airplane Cartoon For Preschool To Color Cute Airplane Cartoon For Toddlers To Color Jet Airplane Simple To Color For Kids Jet Coloring Page Realistic Airplane Coloring Page Realistic Airplane Coloring Sheet Simple Airplane Coloring Book Page Simple Airplane Page To Color"
-    },
-    {
-      "heading": "Realistic Airplane Coloring Pages",
-      "text": "We’ve designed a collection of detailed airplane coloring pages perfect for older kids and adults. These illustrations beautifully capture aircraft in striking detail. A380 Airplane Coloring Sheet Army Jet Coloring Book Page Army Jet Coloring Sheet Boeing 737 Coloring Page Boeing 737 Outline Double Decker Airplane Illustration Plane Coloring Sheet Propeller Plane Coloring Sheet Airport Coloring Page Aircraft Carrier Coloring Book Page Airplane Cabin Crew Coloring Book Page Airplane Cabin Crew Coloring Page Airplane Pilot Drawing To Color Airplane Pilot In Cockpit Page To Color Airplane Cockpit Coloring Book Page Airplane Cockpit Coloring Sheet Airplane Engine Coloring Sheet"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Airplane",
@@ -166,17 +157,8 @@
       "pdf": "airplane-engine.pdf"
     }
   ],
-  "tips": {
-    "colors": "For commercial airliners, use whites, grays, and blues. Military aircraft look great in olive greens, blacks, and grays.",
-    "techniques": "A. Highlighting and Shadows: Apply yellow highlights where the sunlight hits the plane’s body and wings. Use grays and darker colors underneath for shadowed areas. B. Color Combinations: For the body, use white with red or blue accent stripes. Color the wing’s leading edges a different contrasting shade.",
-    "challenge": "Color your airplane flying through a colorful sunset or sunrise sky scene using warm yellows, oranges, pinks, and purples. These soaring airplanes are ready to fly high on your coloring pages. But what’s that whirring sound? It must be their helicopter friends hovering in for a playdate in the sky!"
-  },
-  "crafts": [
-    {
-      "title": "5 DIY Airplane Crafts",
-      "text": "Get ready for some seriously fun aeronautical adventures with these plane-tastic crafts! Supplies Needed: Instructions: What You’ll Need: Here’s How: Gather These: Steps: You’ll Need: Instructions: Supplies: Let’s Make It!"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "boat-coloring-pages",
     "hot-air-balloon-coloring-pages",

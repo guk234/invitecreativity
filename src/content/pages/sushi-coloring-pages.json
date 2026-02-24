@@ -1,19 +1,10 @@
 {
-  "title": "Sushi Coloring Pages (Free Printable PDFs)",
+  "title": "Sushi Coloring Pages",
   "slug": "sushi-coloring-pages",
   "description": "",
   "category": "Food",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Sushi Colors",
-      "text": "Whites and tans for rice. Pinks and oranges for fish like tuna and salmon. Greens for nori seaweed wraps and avocado. Blacks for soy sauce accents. But why let your sushi scene swim in mundane monotones when you can make it a real catch? Bait those rolls with brilliant neon pops, shimmering pearlescent shines, or an ocean-inspired rainbow gradient!"
-    },
-    {
-      "heading": "Color a Sushi Coloring Page in Detail",
-      "text": "A. Color Combinations: For a California roll, use green for the nori exterior. Layer yellow for the rice base and add touches of orange for the crab meat filling. B. Highlighting and Shadows: On a piece of nigiri sushi, use a pink base coat for the tuna topping. Add white highlights on raised areas for a glossy shine. Shade underneath with red undertones."
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Serene Sushi Picnic",
@@ -31,15 +22,8 @@
       "pdf": "cute-sushi.pdf"
     }
   ],
-  "tips": {
-    "challenge": "Add some roll-icking fun by transforming your sushi into animated characters with big personalities and imaginative traits! For example, give your sushi googly eyes and expressive facial features, dress them in zany costumes and accessories, or depict them engaging in silly antics and adventures. This whimsical approach encourages unbridled creativity and humor."
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Sushi Crafts",
-      "text": "Get ready to craft up a deliciously creative Japanese feast! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "burger-coloring-pages",
     "candy-cane-coloring-pages",

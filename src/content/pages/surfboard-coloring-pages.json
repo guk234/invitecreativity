@@ -1,19 +1,10 @@
 {
-  "title": "Surfboard Coloring Pages (Free Printable PDFs)",
+  "title": "Surfboard Coloring Pages",
   "slug": "surfboard-coloring-pages",
   "description": "",
   "category": "Transport",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Simple Surfboards",
-      "text": "Surfboard Coloring Page Surfboard In Sand Coloring Sheet Surfboard In The Sand Surfboard On Sandy Beach To Color Surfboard On The Sand Coloring Page Surfboard On The Wall Coloring Page Surfboard To Color Surfboard With Classic Stripes Surfboard With Stripes Coloring Page Blank Surfboard Coloring Page Blank Surfboard Coloring Sheet Blank Surfboard Long Surfboard To Color Short Surfboard Coloring Page Surfboard On Car Roof Coloring Sheet Surfboard Strapped On Top Of A Car"
-    },
-    {
-      "heading": "Detailed Surfboards",
-      "text": "Surfboard Mandala Coloring Page Surfboard Mandala Coloring Sheet Surfboard Mandala Outline Surfboard Abstract Art Surfboard Abstract Art Coloring Sheet Surfboard Pattern To Color Surfboard Mandala Surfboard Illustration Short Surfboard Drawing To Color Surfboard Bag Surfboard Bag Coloring Page Short Surfboard Surfboard Collection Surfboard Collection Coloring Sheet"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Surfboard in Sand",
@@ -131,17 +122,8 @@
       "pdf": "surfboard-collection-2.pdf"
     }
   ],
-  "tips": {
-    "colors": "Blues and greens for ocean waves. Whites for surf spray. Yellows, reds, and blues for classic surfboard designs. Tans for sandy beaches. But why simply drift along standard swells when you can truly ride an imaginative tidal wave of splendor? Make your surfing scene shimmer with vibrant undersea bioluminescence, blazing sunburst skies, or even psychedelic waveform patterns!",
-    "techniques": "A. Color Combinations: For a surfboard’s iconic design, use a sky blue base coat. Add red and yellow stripes with a white outline for that classic aesthetic. B. Blending Techniques: For ocean waves, use a deep blue base color. Blend in white curved strokes towards the top to depict foamy crests.",
-    "challenge": "Hang loose and get wildly creative by reimagining some truly jaw-dropping “Tubular Tidal Terrain” that transforms ordinary waves into mind-bending masterpieces! For instance, illustrate a massive crystal clear barrel wave revealing vibrant undersea civilizations, a cosmic celestial swell carrying planets and stars in its crest, or even an otherworldly liquid metal wave crackling with electric energy. This far-out ocean dreamscape fosters limitless visual imagination!"
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Surfboard Crafts",
-      "text": "Get ready to craft up some gnarly wave-shredding fun! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "hot-air-balloon-coloring-pages",
     "ship-coloring-pages",

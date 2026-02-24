@@ -1,23 +1,10 @@
 {
-  "title": "Stegosaurus Coloring Pages (Free Printable PDFs)",
+  "title": "Stegosaurus Coloring Pages",
   "slug": "stegosaurus-coloring-pages",
   "description": "",
   "category": "Dinosaurs",
   "date": "2024-04-14",
-  "sections": [
-    {
-      "heading": "Cute Stegosaurus Coloring Pages",
-      "text": "These accessible pages are perfect for kids and preschoolers, helping develop their creativity, fine motor skills, and hand-eye coordination while coloring the friendly dinosaurs. Stegosaurus For Kids Coloring Page Stegosaurus Baby Coloring Sheet Cool Stegosaurus Disney Style To Color Cute Stegosaurus Easy To Color Stegosaurus Baby Coloring Page Stegosaurus Funny And Simple To Color Stegosaurus Funny Cartoon Style To Color Stegosaurus Kawaii Coloring Sheet Cute Stegosaurus For Preschool Small Cute Stegosaurus To Color Stegosaurus Cartoon Coloring Page Stegosaurus Coloring Page"
-    },
-    {
-      "heading": "Realistic Stegosaurus Coloring Pages",
-      "text": "These illustrations capture the majestic stegosaurus in stunning detail, providing a rewarding experience for everyone who wants to hone their coloring skills. Realistic Stegosaurus Running Coloring Book Page Realistic Stegosaurus Roaring Outline Detailed Stegosaurus Fighting Stegosaurus Cartoon Coloring Sheet Stegosaurus Fighting To Color Stegosaurus In A Prehistoric Setting Stegosaurus Jurassic Park Coloring Page Stegosaurus Jurassic Park Coloring Sheet Stegosaurus Roaring Coloring Page Stegosaurus Running Coloring Book Page Stegosaurus Running Coloring Page Stegosaurus Running Coloring Sheet"
-    },
-    {
-      "heading": "Stegosaurus Colors",
-      "text": "Greens, browns, and grays work nicely for a realistic stegosaurus. For accents, try reds, blues, and blacks."
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Stegosaurus",
@@ -95,16 +82,8 @@
       "pdf": "detailed-stegosaurus-fighting.pdf"
     }
   ],
-  "tips": {
-    "techniques": "A. Highlighting and Shadows: Use lighter greens on the top and darker shades underneath to show highlights and shadows on the body. B. Illustrating Specific Elements: Color the bony plates along the back in varying shades of grays and browns for dimension and detail.",
-    "challenge": "Create a lush prehistoric forest setting using rich greens and browns for plants surrounding your stegosaurus. This naturalistic environment encourages coordinating diverse natural tones and textures. It develops skills in illustrating an immersive, cohesive ecosystem."
-  },
-  "crafts": [
-    {
-      "title": "5 DIY Stegosaurus Crafts",
-      "text": "Get ready to go prehistoric with these dino-mite stegosaurus projects! Supplies Needed: Instructions: What You’ll Need: Here’s How: Gather These: Steps: You’ll Need: Instructions: Supplies: Let’s Make It!"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "brachiosaurus-coloring-pages",
     "dinosaur-egg-coloring-pages",

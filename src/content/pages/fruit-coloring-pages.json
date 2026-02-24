@@ -1,19 +1,10 @@
 {
-  "title": "Fruit Coloring Pages (Free Printable PDFs)",
+  "title": "Fruit Coloring Pages",
   "slug": "fruit-coloring-pages",
   "description": "",
   "category": "Food",
   "date": "2024-04-14",
-  "sections": [
-    {
-      "heading": "All Fruit Coloring Pages",
-      "text": "Fruit Coloring Page All Fruit Coloring Page Apple Coloring Sheet Banana To Color Berry Coloring Book Page Coloring Page Of Strawberry Pineapple Page To Color Cherries Coloring Sheet All Fruit Coloring Sheet All Fruit Coloring Book Page Apple To Color Avocado Coloring Sheet Berry Coloring Sheet Berry To Color Blueberry Coloring Sheet Blueberry Drawing To Color Blueberry To Color Cherries Page To Color Cherry Coloring Sheet Cherry Illustration Cherry To Color Coloring Page Of Apple Coloring Page Of Banana Coloring Page Of Blueberry Coloring Page Of Cherries Coloring Page Of Lemon Coloring Page Of Pear Fruit Coloring Page Of Pineapple Coloring Sheet Of Apple Coloring Sheet Of Berry Coloring Sheet Of Cherries Coloring Sheet Of Cherry Coloring Sheet Of Fruit Bowl Coloring Sheet Of Kawaii Fruit Fruit Bowl Coloring Page Fruit Coloring Book Page Fruit Coloring Sheet Fruit Page To Color Fruits Coloring Page Kawaii Fruit Coloring Page Lemon Coloring Sheet Lemon To Color Pear Coloring Book Page Pear Fruit To Color Pear Page To Color Pineapple Coloring Book Page Strawberry Coloring Sheet Strawberry Outline Strawberry Page To Color Summer Fruit Coloring Page Summer Fruit Page To Color"
-    },
-    {
-      "heading": "Fruit Recommended Colors",
-      "text": "Use reds for apples and strawberries, oranges for citrus, yellows for bananas and pineapples, greens for limes and kiwis, and purples for grapes and plums."
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Fruit",
@@ -226,16 +217,8 @@
       "pdf": "summer-fruit-2.pdf"
     }
   ],
-  "tips": {
-    "techniques": "A. Blending Techniques: For a peach, use yellow as the base coat then blend oranges and reds on top to create a soft, natural gradient. B. Highlighting and Shadows: Apply white highlights where the fruit would catch light, like the top of an apple. Use darker shades underneath for shadows.",
-    "challenge": "Color a vibrant still life scene with a bowl of assorted fresh fruits using rich, complementary colors like oranges and blues. This warm and cool color contrast makes the fruits pop. It allows you to practice seamlessly blending diverse yet harmonious colors across objects."
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Fruit Crafts",
-      "text": "Get ready to go bananas with these fabulously fruity craft ideas! Supplies Needed: Instructions: Gather These: Steps: You’ll Need: Instructions: These juicy fruits are bursting with flavor and color, ready to make your pages pop! And look, their vegetable friends are joining in on the healthy coloring party, adding their greens and earthy hues to the mix!"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "dessert-coloring-pages",
     "gummy-bear-coloring-pages",

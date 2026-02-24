@@ -1,23 +1,10 @@
 {
-  "title": "Dragon Coloring Pages (Free Printable PDFs)",
+  "title": "Dragon Coloring Pages",
   "slug": "dragon-coloring-pages",
   "description": "",
   "category": "Fantasy",
   "date": "2024-04-14",
-  "sections": [
-    {
-      "heading": "Dragon Types Coloring Pages",
-      "text": "Explore fire-breathing beasts, majestic water dragons, mighty mountain dwellers, whimsical cloud serpents, and mystical moon guardians. You’ll also discover classic medieval wyrms, wise bearded elders, and regal Japanese and Chinese dragons. Dragon Coloring Page Bearded Dragon Coloring Sheet Sea Dragon Page To Color Water Dragon Coloring Sheet Realistic Fire Breathing Dragon To Color Mountain Dragon Coloring Sheet Moon Dragon Outline Medieval Dragon Coloring Book Page Japanese Dragon To Color Hydra Realistic Water Dragon Illustration Cool Fire Dragon Coloring Book Page Cool Cloud Dragon Drawing To Color Cloud Dragon Coloring Sheet Chinese Dragon Coloring Book Page"
-    },
-    {
-      "heading": "Cute Dragon Coloring Pages",
-      "text": "We created tons of cute, cartoon-style dragon friends that are perfect for little kids and preschoolers! These fun pages have thick outlines and basic shapes that make coloring easy. Baby Fire Dragon For Preschool To Color Baby Toothless Dragon Coloring Book Page Cat Dragon Easy To Color For Kids Cute Bearded Dragon For Kids To Color Cute Dragon Page To Color Cute Hybrid Dragon For Kids To Color Dragon Egg Coloring Page For Kids Dragon In Front Of A Castle Coloring Sheet Fairytale Dragon For Preschool Fire Dragon Coloring Page Fire Dragon Coloring Sheet Kawaii Dragon Coloring Sheet Simple Cute Dragon For Preschool To Color Toothless Dragon Coloring Sheet"
-    },
-    {
-      "heading": "Detailed Dragon Coloring Pages",
-      "text": "For older kids and adults seeking an artistic test, we designed the following dragon illustrations. These advanced pages feature complex shading and tiny details that will challenge your coloring abilities. Detailed Dragon Coloring Page Difficult Dragon Zentagle Detailed Page To Color Difficult Dragon Zentagle For Adults To Color Dragon Eye Coloring Page Dragon Flying At High Speed To Color Dragon Zentagle Coloring Sheet Mythical Dragon Page To Color Realistic Bearded Dragon To Color Realistic Dragon Head Coloring Sheet Scary Dragon Battle Coloring Book Page"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Dragon",
@@ -190,17 +177,8 @@
       "pdf": "scary-dragon-battle.pdf"
     }
   ],
-  "tips": {
-    "colors": "Reds, greens, and blacks are classic dragon colors. Use blues, purples, and oranges for extra flair. Dragons are mythical, so use your most imaginative color combos!",
-    "techniques": "A. Layering Colors: For the dragon’s scaled body, use a green base coat. Layer darker greens, blues, and black for shading and dimension. B. Blending Techniques: Apply reds, oranges, and yellows in the mouth and nostrils. Use a blending tool to smoothly blend the fiery tones together.",
-    "challenge": "Color a dragon scene depicting the beast’s control over different natural elements like fire, water, air using associated warm and cool color palettes. We have designed many elemental dragons in this collection, choose one you like the most! These fire-breathing dragons are ready to light up your coloring pages with their vibrant scales and adventurous spirits! But what about their unicorn friends, galloping over to join the magical fun!"
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Dragon Crafts",
-      "text": "Get ready to take flight with these mythically fun dragon-themed projects! Supplies Needed: Instructions: You’ll Need: Instructions: Supplies: Let’s Make It!"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "ghost-coloring-pages",
     "haunted-house-coloring-pages",

@@ -4,16 +4,7 @@
   "description": "",
   "category": "Dinosaurs",
   "date": "",
-  "sections": [
-    {
-      "heading": "All Dinosaurs Coloring Pages",
-      "text": "Ankylosaurus Coloring Page Ankylosaurus Page To Color Ankylosaurus To Color Apatosaurus Coloring Page Apatosaurus Coloring Sheet Apatosaurus Page To Color Baby Dinosaur For Kids To Color Baryonyx Coloring Sheet Baryonyx Outline Brontosaurus Coloring Page Ceratosaurus Coloring Book Page Ceratosaurus Coloring Page Ceratosaurus Illustration Coloring Sheet Of Dinosaur In A Prehistoric Setting Coloring Sheet Of Plesiosaurus Coloring Sheet Of Scary Dinosaur Cute Baby Dinosaur Coloring Page Dilophosaurus Coloring Book Page Dilophosaurus Coloring Page Dimetrodon Coloring Page Dimetrodon Coloring Sheet Dinosaur Anatomy Coloring Page Dinosaur Cartoon To Color Dinosaur Fighting Coloring Page Dinosaur For Preschool To Color Dinosaur Fossil Coloring Page Dinosaur Funny Cartoon Coloring Book Page Dinosaur In A Prehistoric Setting Page To Color Dinosaur Kawaii Coloring Sheet Dinosaur Running Coloring Book Page Dinosaur Running Coloring Sheet Diplodocus Coloring Page Flying Dinosaur Coloring Page Flying Dinosaur To Color Good Dinosaur Disney Style To Color Good Dinosaur For Kids To Color Good Dinosaur Page To Color Liopleurodon Coloring Page Liopleurodon Coloring Sheet Liopleurodon Page To Color Plesiosaurus Coloring Page Plesiosaurus Drawing To Color Pteranodon Coloring Sheet Scary Dinosaur Coloring Book Page Scary Dinosaur Roaring To Color Tarbosaurus Coloring Page Tarbosaurus Coloring Sheet The Good Dinosaur Coloring Page Titanoboa Coloring Sheet"
-    },
-    {
-      "heading": "Dinosaurs Coloring Tips",
-      "text": "A. Layering Colors: For the dinosaur’s skin, start with a green base coat. Layer darker greens, browns, and blacks to add shading and dimension. B. Illustrating Specific Elements: Color bony plates and horns in grays and browns. Use lighter tones on top areas for highlights."
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Tyrannosaurus Rex Hybrid",
@@ -271,16 +262,8 @@
       "pdf": "titanoboa.pdf"
     }
   ],
-  "tips": {
-    "colors": "Greens, browns, and grays work well for a realistic dinosaur scene. For pops of color, try reds, blues, and yellows. Make your dinosaurs wildly vibrant! Creativity is your guide here, whatever you feel the right color is for a dinosaur, use that.",
-    "challenge": "Color your dinosaur scene using coarse, scaly textures across the skin and rough, earthy textures for the environment. This naturalistic approach develops skills in creating visual depth through varied stroke techniques and tones within a limited palette. It encourages experimentation with texture."
-  },
-  "crafts": [
-    {
-      "title": "5 DIY Dinosaurs Crafts",
-      "text": "Get ready to stomp into some dino-mite fun with these roaring dinosaur projects! Supplies Needed: Instructions: What You’ll Need: Here’s How: Gather These: Steps: You’ll Need: Instructions: Supplies: Let’s Make It!"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "tyrannosaurus-rex-coloring-pages",
     "allosaurus-coloring-pages",

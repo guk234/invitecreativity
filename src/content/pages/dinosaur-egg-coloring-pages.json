@@ -1,5 +1,5 @@
 {
-  "title": "Dinosaur Egg Coloring Pages (Free Printable PDFs)",
+  "title": "Dinosaur Egg Coloring Pages",
   "slug": "dinosaur-egg-coloring-pages",
   "description": "",
   "category": "Dinosaurs",
@@ -12,17 +12,8 @@
       "pdf": "baby-dinosaur.pdf"
     }
   ],
-  "tips": {
-    "colors": "Browns, tans and greens for realistic prehistoric eggs. Whites, blues and speckled patterns are also common. But why hatch the same old ordinary ovals when you can invent wildly imaginative egg designs? Let your creativity run free with brilliant neon hues, shimmering metallics or even mystical glow effects!",
-    "techniques": "A. Blending Techniques: For a mottled realistic look, use a tan or brown base coat. Blend in splotches of green, gray and blue tones in layers. B. Illustrating Specific Elements: For reptilian eggs, use a green base color. Add stroke patterns of darker green and brown to depict the bumpy, leathery shell texture.",
-    "challenge": "For an enchanting spin, unleash your imagination by depicting the eggs as “Mythic Hatchery Wonders” from legendary creature clutches! You could illustrate a dragonic nest of fiery scaled eggs with runes etched into the shells. Or envision crystalline geodes cradiing cosmic infants waiting to emerge into the universe. It’s a magical way to combine real-world coloring with fantasy worldbuilding."
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Dinosaur Egg Crafts",
-      "text": "Get ready to craft up some prehistoric egg-citement! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "triceratops-coloring-pages",
     "tyrannosaurus-rex-coloring-pages",

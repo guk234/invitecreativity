@@ -1,19 +1,10 @@
 {
-  "title": "Gummy Bear Coloring Pages (Free Printable PDFs)",
+  "title": "Gummy Bear Coloring Pages",
   "slug": "gummy-bear-coloring-pages",
   "description": "",
   "category": "Food",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Gummy Bear Colors",
-      "text": "Bright reds, oranges, yellows, greens, blues and purples for gummy bear colors. Add white accents for shiny highlights. Don’t let your gummy gang settle for a basic sugar rush palette! Give those chewy cuties an extra burst of vibrant energy with electric neon streaks, shimmering pearlescent finishes, or marbleized swirls."
-    },
-    {
-      "heading": "Color a Gummy Bear in Detail",
-      "text": "A. Color Combinations: For a red gummy, use a bright red base color. Layer pink undertones into the center areas, fading outwards for a subtle ombre effect. B. Highlighting and Shadows: On a yellow gummy bear, use a golden base coat. Add white highlights on raised areas to depict a glossy shine. Shade underneath with amber tones."
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Gummy Bear Candy",
@@ -31,15 +22,8 @@
       "pdf": "gummy-bear-sweets.pdf"
     }
   ],
-  "tips": {
-    "challenge": "Launch your gummies into an outer space odyssey by coloring a fanciful alien world with gummy bear explorers encountering cosmic treats and sugary surprises! For example, depict the gummies trekking across a licorice planet, mining gumdrops from a meteor shower, or discovering a sour snake civilization. Let your creativity travel to deliciously imaginative frontiers on this intergalactic journey!"
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Gummy Bear Crafts",
-      "text": "Get ready for beary sweet fun with these gummy-licious ideas! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "sushi-coloring-pages",
     "unicorn-cake-coloring-pages",

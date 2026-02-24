@@ -1,23 +1,10 @@
 {
-  "title": "Santa Claus Coloring Pages (Free Printable PDFs)",
+  "title": "Santa Claus Coloring Pages",
   "slug": "santa-claus-coloring-pages",
   "description": "",
   "category": "Christmas",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Cute Santa Claus Coloring Pages",
-      "text": "Santa Cartoon Style Coloring Page Santa Chibi To Color Santa Claus Coloring Page Of Santa Claus Easy To Color Coloring Page Santa Eating Cookies And Milk Coloring Sheet Santa Eating Cookies Page To Color Santa Hat Page To Color Santa Hats Coloring Page Of Santa Kawaii Coloring Page Santa Laughing Coloring Page Santa Laughing Ho Ho Ho Coloring Page Santa On A Sled With Gifts Flying At Night Coloring Sheet Santa Placing Gifts Under The Christmas Tree Outline Santa Reading Naughy Or Nice List Coloring Page Santa Smiling Simple Coloring Sheet Santa’s Little Helpers To Color Cute Santa Claus Page To Color Dear Santa Reading Letters Coloring Page Mrs Santa Claus Coloring Book Page Pikachu With Santa Hat Coloring Sheet Santa And Elf Drawing To Color Santa And Elves Outline Santa And Mrs Claus Coloring Page"
-    },
-    {
-      "heading": "Detailed Santa Claus Coloring Pages",
-      "text": "Santa Mandala Coloring Page Of Santa Realistic Page To Color Santa Sitting In His Rocking Chair Coloring Page Santas Workshop Coloring Page Vintage Santa To Color Cozy Santa Listening To Kids Wishes To Color Cute Pikachu Wearing Santa Hat Outline Kids Opening Gifts On Christmas Eve Coloring Page Mrs Claus Coloring Sheet Santa Christmas Coloring Sheet Santa Face Detailed Coloring Page"
-    },
-    {
-      "heading": "Santa Claus With Presents",
-      "text": "Santa Merry Christmas Coloring Page Santa Preparing Gifts For Christmas Coloring Page Santa Sorting Through Mails Coloring Sheet Santa Waving Coloring Page Santa With Presents Coloring Sheet Of Christmas Santa With Gifts Coloring Sheet Cute Santa Coloring Sheet Of Large Santa Coloring Book Page Santa And Christmas Tree Illustration Santa Bringing Gifts Coloring Page Of Santa Claus Carrying Gifts Coloring Page Santa Claus Sketch Coloring Sheet"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Santa Cartoon Style",
@@ -245,17 +232,8 @@
       "pdf": "santa-claus-carrying-gifts.pdf"
     }
   ],
-  "tips": {
-    "colors": "Reds for Santa’s suit. Whites for his fur trim. Rosy cheeks in pinks. Browns for his boots and belt. But don’t just stop at the traditional tones! Make Santa’s entrance extra eye-catching with metallic shines, vivid patterned designs, or even magical sparkling auras.",
-    "techniques": "A. Textured Effects: For Santa’s suit, use a red base coat. Add short curved stroke patterns in varying darker shades to show the velvet fabric texture. B. Highlighting and Shadows: On Santa’s face, use a rosy pink for his cheeks and nose. Add deeper shading with reds around the creases and under his nose. Use white highlights on protruding areas like his nose tip.",
-    "challenge": "Put an imaginative spin on Santa’s traditional look with a “Festive Fusion Makeover” theme! For example, you could redesign Santa’s suit with vibrant Aztec patterns and serape accents. Or envision him arriving in a sleek robotic power suit loaded with high-tech gift delivery systems. It’s a fun way to blend your creativity with the Christmas spirit."
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Santa Claus Crafts",
-      "text": "Get ready to craft up some jolly holiday fun! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "christmas-coloring-pages",
     "christmas-elf-coloring-pages",

@@ -1,19 +1,10 @@
 {
-  "title": "Haunted House Coloring Pages (Free Printable PDFs)",
+  "title": "Haunted House Coloring Pages",
   "slug": "haunted-house-coloring-pages",
   "description": "",
   "category": "Fantasy",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Simple Haunted House Coloring Pages",
-      "text": "Our haunted house coloring pages are cute and simple, with easy shapes and cartoon-style outlines. Perfect for preschoolers and kids, these fun pages are accessible and enhance creativity and imaginative play. Haunted House Werewolf Haunted House Simple Haunted House Easy To Color Small Haunted House Easy To Color Haunted House Easy To Color Haunted House With Floating Lanterns Haunted House Large Haunted House With Floating Lanterns Haunted Castle With Bats"
-    },
-    {
-      "heading": "Detailed Haunted House Coloring Pages",
-      "text": "These difficult designs provide a soothing, immersive activity, perfect for honing your coloring skills and escaping into a creative adventure. Lego Haunted House Le Chateau Haunted House Haunted House With Spiders Detailed Lego Haunted House Detailed Creepy Haunted House Small Lego Haunted House Simple Haunted House With Spiders Scary Halloween Haunted House Creepy Haunted Mansion Difficult To Color Anime Haunted Mansion"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Haunted House",
@@ -86,17 +77,8 @@
       "pdf": "creepy-haunted-mansion-difficult.pdf"
     }
   ],
-  "tips": {
-    "colors": "Blacks, grays and deep purples for the house itself. Oranges for glowing jack-o-lanterns. Greens for twisted trees and overgrown scenery. Don’t just haunt the neighborhood with boring hues! Make your haunted house truly spook-tacular by coloring ghostly figures with eerie blue glows or splattering fluorescent slime drippings.",
-    "techniques": "A. Highlighting and Shadows: Use a black base for the haunted house. Add stark white highlights on windows to make them look like peering ghostly faces. B. Color Combinations: For deteriorating wood elements like doors or shutters, use a brown base color. Add deeper shades of red and orange for rusting and decay.",
-    "challenge": "Conjure up some monstrous fun by creating a haunted house scene inspired by your favorite horror movies, folklore or imagined otherworldly tales. For example, use deep crimsons and pops of sickly green to capture the mood of a classic vampire’s lair. Or opt for fiery oranges and inky blacks to depict a hellish underworld dwelling. This allows you to tap into your spooky creativity while practicing bold, atmospheric color schemes."
-  },
-  "crafts": [
-    {
-      "title": "DIY Haunted House Crafts",
-      "text": "Get ready to construct some eerily fun haunts with these creepy projects! Gather These Items: Build a Ghostly Gallery: You’ll Need: Illuminate the Haunting! Necessities: Summon Sinister Sentries: Supplies Needed: Construct a Chilling Setting: What You’ll Need: Engineer Eerie Architecture:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "dragon-coloring-pages",
     "ghost-coloring-pages",

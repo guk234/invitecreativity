@@ -1,5 +1,5 @@
 {
-  "title": "Burger Coloring Pages (Free Printable PDFs)",
+  "title": "Burger Coloring Pages",
   "slug": "burger-coloring-pages",
   "description": "",
   "category": "Food",
@@ -17,17 +17,8 @@
       "pdf": "burger-kawaii.pdf"
     }
   ],
-  "tips": {
-    "colors": "Browns for beef patties. Yellows, reds, and greens for cheese, tomatoes, and lettuce. Tans for buns. Add pops of color like purple for unique toppings. Don’t settle for a bland burger palette! Make your mouthwatering masterpieces sizzle with unexpected accents like neon pickle chips or sriracha squiggles.",
-    "techniques": "A. Layering Colors: For a beef patty, use a brown base coat. Layer darker reds into the center, fading outwards for a realistic “cooked” appearance. B. Highlighting and Shadows: On a yellow cheese slice, use a golden base. Add white highlights on raised areas and shade underneath with orange undertones.",
-    "challenge": "Design your own wildly creative burger creation by “building” it with an assortment of unexpected colors, toppings and decorative garnishes!"
-  },
-  "crafts": [
-    {
-      "title": "3 DIY Burger Crafts",
-      "text": "Get ready to craft up some deliciously fun burger makes! You’ll Need: Instructions: You’ll Need: Instructions: You’ll Need: Instructions:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "corn-coloring-pages",
     "cupcake-coloring-pages",

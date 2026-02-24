@@ -1,27 +1,10 @@
 {
-  "title": "Boat Coloring Pages (Free Printable PDFs)",
+  "title": "Boat Coloring Pages",
   "slug": "boat-coloring-pages",
   "description": "",
   "category": "Transport",
   "date": "2024-06-18",
-  "sections": [
-    {
-      "heading": "Wooden Boats",
-      "text": "Wooden Boat Coloring Page Wooden Boat Coloring Sheet Wooden Boat Drawing To Color Boat Cartoon Style Coloring Page Sailboat To Color Sailboat Outline Sailboat Coloring Sheet Boat On A Lake Illustration Boat On A Lake Boat Scene On A Lake Coloring Sheet"
-    },
-    {
-      "heading": "Modern Boats",
-      "text": "Boat Coloring Sheet Motor Boat Coloring Page Motor Boat Coloring Sheet Pontoon Boat Coloring Sheet Pontoon Boat Motorboat Coloring Page Motor Boat Outline Harbor Scene With Various Types Of Boats And Lighthouse Harbor Scene With Boats And Lighthouse To Color Powerboat To Color Speed Boat To Color Boats Drawing To Color Boats Coloring Page Boat On A Lake Coloring Page"
-    },
-    {
-      "heading": "Boat Colors",
-      "text": "Blues and whites for the hull and sails. Reds, greens and yellows for accents. Browns for wood detailing. Why stick to the same old seafaring shades? Give your boat scenes a whimsical makeover with candy-colored striped sails or fish scale patterns along the hull."
-    },
-    {
-      "heading": "Color a Boat in Detail",
-      "text": "A. Color Combinations: Color a sailboat’s hull with a bright white base. Then add navy blue accents for the trim and deck. B. Textured Effects: On a wood-paneled boat interior or deck, use a brown base color. Create a wood grain effect by lightly shading thin tan and yellow lines in a cross-hatched pattern."
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Sailboat",
@@ -39,15 +22,8 @@
       "pdf": "boats.pdf"
     }
   ],
-  "tips": {
-    "challenge": "Celebrate the wonders of marine life by coloring your boat scene in shades inspired by beautiful underwater creatures and coral environments. You could render sleek sailboats in iridescent colors reminiscent of tropical fish. Or use muted greens and tans to depict a wooden fishing vessel at home among algae-covered reefs. This naturalistic approach connects your artwork to the vibrant ocean world."
-  },
-  "crafts": [
-    {
-      "title": "DIY",
-      "text": "Get ready to craft some smooth sailing fun with these ship-shape projects! Gather These Items: Captain Your Own Fleet: You’ll Need: All Hands on Deck! Necessities: Set Sail for Creative Waters: What You’ll Need: View the Vast Ocean Expanse! Supplies Required: Row On with Your Imagination!"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "ship-coloring-pages",
     "skateboarding-coloring-pages",

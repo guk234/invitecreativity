@@ -1,19 +1,10 @@
 {
-  "title": "Carrot Coloring Pages (Free Printable PDFs)",
+  "title": "Carrot Coloring Pages",
   "slug": "carrot-coloring-pages",
   "description": "",
   "category": "Food",
   "date": "2024-04-14",
-  "sections": [
-    {
-      "heading": "Simple Carrot Coloring Pages",
-      "text": "These beginner-level coloring sheets are perfect for little kids and preschoolers looking to start learning about vegetables. As they fill the vibrant scenes with bright colors, young hands will also sharpen focus and motor skills. Carrots Coloring Page Carrots Coloring Sheet Carrot Cartoon Easy to Color Carrot Cute Simple for Preschool Carrot Coloring Page Carrot Stand in Farmers Market Coloring Sheet Carrot Cute Simple for Kids Page to Color Carrot with Big Leaf to Color Basket of Carrots Coloring Sheet Carrot Cartoon Kawaii for Preschool Page to Color"
-    },
-    {
-      "heading": "Realistic Carrot Coloring Pages",
-      "text": "We’ve got advanced carrot designs ready to challenge expert colorers! This section puts your skills to the test with shaded vegetable portraits meant for older kids and adults. Carrots Bundled Together Detailed for Adults Carrot Stand in Farmers Market Page to Color Carrot Garden Coloring Sheet Realistic Pair of Carrots Coloring Sheet Realistic Carrots Outline Basket of Carrots for Adults to Color"
-    }
-  ],
+  "sections": null,
   "coloringPages": [
     {
       "title": "Carrot Cute Simple",
@@ -36,17 +27,8 @@
       "pdf": "basket-of-carrots-2.pdf"
     }
   ],
-  "tips": {
-    "colors": "You’ll definitely want to put that iconic orange front and center for classic carrot coloring. A vibrant, bright orange makes the perfect base to capture that fresh carrot vibe. Mix in some rich yellows, warm reds, and even pops of green for the feathery tops to really make those carrots pop off the page.",
-    "techniques": "A. Shading: Use a deep, almost brown shade of orange for those shaded areas and ridges to give your carrots amazing dimension. Then lighten up the orange towards the highlights for an ultra-realistic, 3D effect that’ll make them look freshly pulled from the garden. B. Stippling: This dotting technique lets you nail that grooved, textured carrot skin. Use a sharp pencil to stipple tiny dots in varying orange shades all over. Vary your pressure for lighter and darker spots of shading too.",
-    "challenge": "Kid artists can surround their bright orange carrots with rich, tilled soil, vibrant green tops poking through, and maybe some furry bunny friends hanging out in the patch. This cheerful carrot is ready to bring some orange sunshine to your coloring pages. And there, in the distance, Corn waves its tall, green husks, inviting Carrot to join in on a veggie-tastic journey filled with laughter and fun!"
-  },
-  "crafts": [
-    {
-      "title": "5 DIY Carrot Crafts",
-      "text": "Here are 5 fun and easy DIY craft ideas using carrot coloring pages that kids and adults will love: What You’ll Need: Instructions: You’ll Need: Let’s Get Crafting! What You Need: Steps: Gather These Items: Instructions: You’ll Need: Here’s How:"
-    }
-  ],
+  "tips": null,
+  "crafts": null,
   "related": [
     "fruit-coloring-pages",
     "gummy-bear-coloring-pages",
